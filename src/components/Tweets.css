@@ -1,0 +1,32 @@
+.main{
+    padding: 4;
+}
+.head{
+    display: flex;
+    justify-content: space-evenly;
+}
+.dp{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+}
+.dpInside{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+}
+.content{
+    display: block;
+    text-align: left;
+}
+.actions{
+    padding: 0;
+    width: 30rem;
+    height: 5vh;
+    display: flex;
+    position: relative;
+    left: 26rem;
+}
+.border{
+    text-align: center;
+}
